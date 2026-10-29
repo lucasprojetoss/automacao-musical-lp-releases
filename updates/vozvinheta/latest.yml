@@ -1,8 +1,8 @@
-version: 0.20.11
+version: 0.20.12
 files:
-  - url: https://github.com/lucasprojetoss/automacao-musical-lp-releases/releases/download/vozvinheta-studio-stable/VozVinheta.Studio.Setup.0.20.11.exe
-    sha512: 5nfyR1kZvXjbjR73HCDj3uioXwf4JuC97tRIDeL2ESGU4AG029+H3vPtCMh7SVfQsapS1vFgpmVAyss8VGwLOA==
-    size: 120935762
-path: https://github.com/lucasprojetoss/automacao-musical-lp-releases/releases/download/vozvinheta-studio-stable/VozVinheta.Studio.Setup.0.20.11.exe
-sha512: 5nfyR1kZvXjbjR73HCDj3uioXwf4JuC97tRIDeL2ESGU4AG029+H3vPtCMh7SVfQsapS1vFgpmVAyss8VGwLOA==
-releaseDate: '2026-10-29T12:01:58.406Z'
+  - url: https://github.com/lucasprojetoss/automacao-musical-lp-releases/releases/download/vozvinheta-studio-stable/VozVinheta.Studio.Setup.0.20.12.exe
+    sha512: Yw9KbVme2nYsnpZa+KyD76zn8BbbJBG8hVna0Cj+ceXCG/3pfwSEANIHKEIwNzV2QlsnWi/CEsD0r2Re1abdAA==
+    size: 120935790
+path: https://github.com/lucasprojetoss/automacao-musical-lp-releases/releases/download/vozvinheta-studio-stable/VozVinheta.Studio.Setup.0.20.12.exe
+sha512: Yw9KbVme2nYsnpZa+KyD76zn8BbbJBG8hVna0Cj+ceXCG/3pfwSEANIHKEIwNzV2QlsnWi/CEsD0r2Re1abdAA==
+releaseDate: '2026-10-29T12:19:16.474Z'
